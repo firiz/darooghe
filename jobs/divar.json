@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "name": "Divar",
+  "endpoint": {
+    "url": "https://search.divar.ir/json/",
+    "method": "POST",
+    "body": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "method": "getPostList",
+      "params": [[["place2",0,["1"]],["cat1",0,[12]]],0]
+    }
+  },
+  "result": {
+    "httpStatus": 200
+  }
+}

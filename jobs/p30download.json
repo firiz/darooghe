@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "name": "P30Download",
+  "endpoint": {
+    "url": "https://p30download.com",
+    "method": "GET"
+  },
+  "result": {
+    "httpStatus": 200
+  }
+}
