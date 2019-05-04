@@ -1,0 +1,17 @@
+{
+  "name": "darooghe",
+  "version": "1.0.0",
+  "description": "A tool for monitoring end points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "convict": "^4.4.1",
+    "mongodb": "^3.2.3",
+    "node-fetch": "^2.5.0"
+  }
+}
